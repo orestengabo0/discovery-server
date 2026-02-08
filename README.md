@@ -1,1 +1,1 @@
-Eureka server setup for service registry
+Spring Eureka server setup for service registry
